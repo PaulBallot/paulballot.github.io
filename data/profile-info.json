@@ -1,0 +1,24 @@
+{
+  "name": "PAUL BALLOT",
+  "subtitle": "PhD Canidate @ Radboud University <br> CLS, Department for Language & Communication | iHub <br><br> 📍 Nijmegen, the Netherlands",
+  "socialLinks": [
+    {
+      "type": "email",
+      "url": "mailto:paul.ballot@ru.nl",
+      "icon": "<i class=\"fas fa-envelope\"></i>"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/paulballot/",
+      "icon": "<i class=\"fab fa-linkedin\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/PaulBallot",
+      "icon": "<i class=\"fab fa-github\"></i>",
+      "target": "_blank"
+    }
+  ],
+  "profileImage": "assets/profile.png"
+} 
