@@ -18,6 +18,12 @@
       "url": "https://github.com/PaulBallot",
       "icon": "<i class=\"fab fa-github\"></i>",
       "target": "_blank"
+    },
+        {
+      "type": "radboud",
+      "url": "https://www.ru.nl/en/people/ballot-p",
+      "icon": "<i class=\"fab fa-university\"></i>",
+      "target": "_blank"
     }
   ],
   "profileImage": "assets/profile.png"
