@@ -7,6 +7,12 @@
       "url": "mailto:paul.ballot@ru.nl",
       "icon": "<i class=\"fas fa-envelope\"></i>"
     },
+        {
+      "type": "github",
+      "url": "https://www.ru.nl/en/people/ballot-p",
+      "icon": "<i class=\"fas fa-university\"></i>",
+      "target": "_blank"
+    },
     {
       "type": "linkedin",
       "url": "https://www.linkedin.com/in/paulballot/",
@@ -17,12 +23,6 @@
       "type": "github",
       "url": "https://github.com/PaulBallot",
       "icon": "<i class=\"fab fa-github\"></i>",
-      "target": "_blank"
-    },
-        {
-      "type": "github",
-      "url": "https://www.ru.nl/en/people/ballot-p",
-      "icon": "<i class=\"fas fa-university\"></i>",
       "target": "_blank"
     }
   ],
